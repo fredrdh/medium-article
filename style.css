@@ -21,6 +21,10 @@ a {
 }
 
 /* Custom design */
+.title {
+  width: 700px;
+  margin: 50px auto;
+}
 .banner {
   background-image: url("https://source.unsplash.com/random/1000x500");
   background-size: cover;
